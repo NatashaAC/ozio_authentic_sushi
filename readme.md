@@ -10,8 +10,8 @@ What the website should look like based on the photoshop mockup.
 
 
 ### Built With
-HTML
-CSS
+- HTML
+- CSS
 
 ### Authors
 Natasha Chambers
